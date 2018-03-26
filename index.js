@@ -1,1 +1,1 @@
-function add(a,b){return parseInt('a','b')}
+function add(a,b){return ('a'+'b')}
